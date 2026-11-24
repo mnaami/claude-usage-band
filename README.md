@@ -2,7 +2,11 @@
 
 A Claude Code mod that adds one row above the prompt box with your plan usage and this session's numbers:
 
-<img src="docs/usage-band.svg" alt="The usage-band row above the Claude Code prompt box, showing 5h, Weekly, Fable, Context, Session, Worked, Last turn, Tokens and Cost" width="860">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/usage-band.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/usage-band-light.svg">
+  <img src="docs/usage-band-light.svg" alt="The usage-band row above the Claude Code prompt box, showing 5h, Weekly, Fable, Context, Session, Worked, Last turn, Tokens and Cost" width="860">
+</picture>
 
 *Illustration with example values, not a screenshot.*
 
