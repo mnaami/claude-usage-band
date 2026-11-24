@@ -2,7 +2,9 @@
 
 A Claude Code mod that adds one row above the prompt box with your plan usage and this session's numbers:
 
-`5h 14% (resets in 4h 8m) · Weekly 22% (resets in 2d 21h) · Fable 8% · Context 31% · Session 2h 5m · Worked 12m · Last turn 23s, 7 tools · Tokens 1.84M in / 42.3k out (1.70M cache read) · Cost $6.15`
+<img src="docs/usage-band.svg" alt="The usage-band row above the Claude Code prompt box, showing 5h, Weekly, Fable, Context, Session, Worked, Last turn, Tokens and Cost" width="860">
+
+*Illustration with example values, not a screenshot.*
 
 | Cell | What it shows |
 | --- | --- |
