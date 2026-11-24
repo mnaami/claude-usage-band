@@ -2,5 +2,6 @@
   "name": "usage-band",
   "version": "0.1.0",
   "description": "A row above the prompt with your 5-hour, weekly and per-model usage, context fill, session time, tokens and cost.",
-  "types": "./types/index.d.ts"
+  "types": "./types/index.d.ts",
+  "license": "MIT"
 }

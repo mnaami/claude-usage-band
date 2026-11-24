@@ -45,3 +45,7 @@ Sessions already open pick the mod up when they restart or resume.
 - Timing and token counts are kept by the mod from turn events, so they start at zero when the mod first loads in a session.
 
 Nothing is sent anywhere else, and nothing is stored outside the session.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
